@@ -6,8 +6,8 @@
 * [Navigational menu](#Navigational_menu)
 * [Menu Link](#Menu_Link)
 * [Up button](#Up_button)
-* [Scroll window](#Scroll_window)
 * [Stop scrolling](#Stop_scrolling)
+* [Scroll window](#Scroll_window)
 
 ## Introduction
 
